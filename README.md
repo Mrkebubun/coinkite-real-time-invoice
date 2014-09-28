@@ -96,9 +96,8 @@ shouldn't ship any goods without at least one confirmation.
 
 ## More about Coinkite
 
-Coinkite is the world's easiest and most powerful web wallet for
-safely holding all your cryptocurrencies, including Bitcoin and Litecoin.
+Coinkite is an [international bitcoin wallet](https://coinkite.com/faq/about) focused on [hardcore privacy](https://coinkite.com/privacy),[bank-grade security](https://coinkite.com/faq/security), developer's [API](https://coinkite.com/faq/developers), [fast](https://coinkite.com/faq/security) transaction signing and [advanced features](https://coinkite.com/faq/features).
 
-[Learn more about all we offer](https://coinkite.com/)
+[Get Your Account Today!](https://coinkite.com/)
 
 
