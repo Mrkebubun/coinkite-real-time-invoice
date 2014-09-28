@@ -3,7 +3,7 @@
 This is a Google App Engine demo project, showing a Bitcoin (or Litecoin or BlackCoin)
 invoicing system.
 
-It produces nice-looking QR and BIP-compliant payment links for the
+It produces nice-looking QR and BIP32-compliant payment links for the
 amount, and has the customary time-limit, with animated count down,
 to indicate the exchange rate quote timeout.
 
@@ -13,7 +13,7 @@ invoice immediately clears and thanks the payer.
 
 Other features:
 
-- Support all fiat currencies from Coinkite, plus all cryptos.
+- Support all fiat _currencies rates_ from Coinkite, plus all cryptos.
 - QR codes rendered directly into the page's HTML as SVG objects (faster, resolution independent).
 - Bootstrap v3 for responsive design: works on iPhones and desktops.
 - Demonstrates the Coinkite python API library (`ckapi`) on GAE.
