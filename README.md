@@ -1,7 +1,7 @@
-# Real Time Invoice System
+# Bitcoin Checkout and Invoice System
 
 This is a Google App Engine demo project, showing a Bitcoin (or Litecoin or BlackCoin)
-invoicing system.
+checkout and invoicing system with time based live quotes.
 
 It produces nice-looking QR and BIP32-compliant payment links for the
 amount, and has the customary time-limit, with animated count down,
