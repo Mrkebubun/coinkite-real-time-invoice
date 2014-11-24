@@ -96,7 +96,9 @@ shouldn't ship any goods without at least one confirmation.
 
 ## More about Coinkite
 
-Coinkite is an [international bitcoin wallet](https://coinkite.com/faq/about) focused on [hardcore privacy](https://coinkite.com/privacy),[bank-grade security](https://coinkite.com/faq/security), developer's [API](https://coinkite.com/faq/developers), [fast](https://coinkite.com/faq/security) transaction signing and [advanced features](https://coinkite.com/faq/features).
+_Join The Most Powerful Bitcoin Platform_
+
+Coinkite is the leading [bitcoin wallet](/faq/features) with [multi-signature](/faq/multisig), [bank-grade security](/faq/security), [developer's API](/faq/developers) and [hardcore privacy](/privacy).
 
 [Get Your Account Today!](https://coinkite.com/)
 
